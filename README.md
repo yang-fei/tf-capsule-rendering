@@ -1,5 +1,5 @@
 # tf-capsule-rendering
-Capsule Based Image Synthesis for Interior Design Effect Rendering
+Capsule ImageCGAN
 ======================================================================
 
 ## Introduction
