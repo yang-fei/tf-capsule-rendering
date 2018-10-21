@@ -1,8 +1,43 @@
-## Welcome to GitHub Pages
+## Capsule ImageCGAN
+
+ACCV 2018 paper, " Capsule Based Image Synthesis for Interior Design Effect Rendering", Fei Yang, Zheng Lu, Guoping Qiu, Jing Lin, Qian Zhang.
+
+University of Nottingham Ningbo China
+
+This project builds capsule blocks in image-conditioned GAN (generative adversarial network) to learn the image translation from a plain image into a rendered image. A line preservation loss is implemented not only to constrain the line shapes, but also to improve the light effects around these lines at the same time.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/yang-fei/tf-capsule-rendering/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Markdown
 
