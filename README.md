@@ -14,6 +14,7 @@ The code will be released after the conference.
 - scipy
 - pillow
 ## Code tested on
+The code has been tested to work well with below hardware or software, but should not be limited in belows. 
 - Ubuntu 14.04/16.04
 - NVIDIA GPU GTX1080/GTX1080TI/GTX TITAN/TITAN X(PASCAL)
 - CUDA 8.0/9.0
