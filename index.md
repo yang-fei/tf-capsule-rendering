@@ -3,6 +3,7 @@
 Capsule Based Image Synthesis for Interior Design Effect Rendering
 
 Fei Yang, Zheng Lu, Qian Zhang
+University of Nottingham Ningbo China
 <Image src="docs/datasample.jpg">
 
 
