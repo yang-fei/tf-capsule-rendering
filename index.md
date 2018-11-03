@@ -3,7 +3,7 @@
 Capsule Based Image Synthesis for Interior Design Effect Rendering
 
 Fei Yang, Zheng Lu, Qian Zhang
-[Image](src)
+[Image](src=datasample.jpg)
 
 
 ACCV 2018 paper, " Capsule Based Image Synthesis for Interior Design Effect Rendering", Fei Yang, Zheng Lu, Guoping Qiu, Jing Lin, Qian Zhang.
