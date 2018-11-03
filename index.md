@@ -1,4 +1,4 @@
-## Capsule ImageCGAN
+# Capsule ImageCGAN
 
 Capsule Based Image Synthesis for Interior Design Effect Rendering
 
