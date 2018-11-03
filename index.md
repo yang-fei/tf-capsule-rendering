@@ -3,7 +3,7 @@
 Capsule Based Image Synthesis for Interior Design Effect Rendering
 
 Fei Yang, Zheng Lu, Qian Zhang
-<Image src="datasample.jpg">
+<Image src="docs/datasample.jpg">
 
 
 ACCV 2018 paper, " Capsule Based Image Synthesis for Interior Design Effect Rendering", Fei Yang, Zheng Lu, Guoping Qiu, Jing Lin, Qian Zhang.
@@ -12,6 +12,11 @@ University of Nottingham Ningbo China
 
 This project builds capsule blocks in image-conditioned GAN (generative adversarial network) to learn the image translation from a plain image into a rendered image. A line preservation loss is implemented not only to constrain the line shapes, but also to improve the light effects around these lines at the same time.
 
+## Dataset - HIDER
+Home Interior Design Effect Rendering dataset
+
+The dataset contains 584 paris of images generated from 300 3D models. 
+<Image src="docs/dataset_samples.jpg">
 
 
 
