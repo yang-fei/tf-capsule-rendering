@@ -8,7 +8,7 @@ University of Nottingham Ningbo China
 This project builds capsule blocks in image-conditioned GAN (generative adversarial network) to learn the image translation from a plain image into a rendered image. A line preservation loss is implemented not only to constrain the line shapes, but also to improve the light effects around these lines at the same time.
 
 
-The code will be released after the conference. The project page is under building by Fei Yang et al. https://yang-fei.github.io/tf-capsule-rendering.
+The code will be released soon. The project page is under building by Fei Yang et al. https://yang-fei.github.io/tf-capsule-rendering.
 
 
 ## Prerequisites
